@@ -3,4 +3,4 @@
 
 HTML e CSS: Praticando HTML/CSS
 
-o Projeto pode ser acessado pelo link: https://ergonzamarian.github.io/HTML-CSS-Pratica/
+O Projeto pode ser acessado através do link: https://ergonzamarian.github.io/HTML-CSS-Pratica/
